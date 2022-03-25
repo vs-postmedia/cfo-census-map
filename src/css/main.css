@@ -17,6 +17,25 @@
 	color: #FFF;
 	padding: 1px 2px;
 }
+.viris_yellow {
+	background-color: #dae137;
+	border-radius: 2px;
+	font-family: BentonSansCond-Bold;
+	color: #FFF;
+	padding: 1px 2px;
+}
+.viris_green {
+	background-color: #90d743;
+	border-radius: 2px;
+	color: #FFF;
+	padding: 1px 2px;
+}
+.viris_green_02 {
+	background-color: #26ab82;
+	border-radius: 2px;
+	color: #FFF;
+	padding: 1px 2px;
+}
 
 
 /* APP & CHART WRAPPER */

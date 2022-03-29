@@ -1,6 +1,6 @@
 {
-  "name": ":cfo-census-map",
-  "homepage": "https://vs-postmedia.github.io/:cfo-census-map/",
+  "name": "cfo-census-map",
+  "homepage": "https://vs-postmedia.github.io/cfo-census-map/",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
